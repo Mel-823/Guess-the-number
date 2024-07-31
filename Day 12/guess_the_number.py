@@ -2,6 +2,7 @@
 from art import logo
 import random
 
+print(logo)
 print("Welcome to the Number Guessing game!")
 print("I'm thinking of a number between 1 and 100.")
 import random
